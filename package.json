@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ecsunder15/serviceworker-cookbook/issues"
   },
-  "homepage": "https://github.com/ecsunder15/serviceworker-cookbook#readme"
+  "homepage": "https://github.com/ecsunder15/serviceworker-cookbook#readme",
+  "dependencies": {
+    "localforage": "^1.7.3"
+  }
 }
