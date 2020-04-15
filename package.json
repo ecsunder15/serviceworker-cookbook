@@ -1,0 +1,19 @@
+{
+  "name": "serviceworker-cookbook",
+  "version": "1.0.0",
+  "description": "service worker experiments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecsunder15/serviceworker-cookbook.git"
+  },
+  "author": "Elise Sunderland",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ecsunder15/serviceworker-cookbook/issues"
+  },
+  "homepage": "https://github.com/ecsunder15/serviceworker-cookbook#readme"
+}

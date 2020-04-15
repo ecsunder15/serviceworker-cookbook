@@ -5,8 +5,6 @@ The service worker in this recipe tries to retrieve the most up to date content 
 var CACHE = 'network-or-cache';
 
 //On install, cache some resource.
-
- 
 self.addEventListener('install', function(evt) {
   console.log('The service worker is being installed.');
   //Ask the service worker to keep installing until the returning promise resolves.
